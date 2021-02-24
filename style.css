@@ -1,4 +1,23 @@
-body {background-color:tan;}
-h1{color:green;}
+.maindiv{
+    background-color:white;
+    color: black;
+    width: 300px;
+    padding: 20px;
+    border-radius: 25px;
+    top: 50%;
+    left: 50%;
+    }
+
+body {
+    background-color:black;
+    font-family: "Arial";
+    color: white;
+    
+    }
+
+h1{
+    color:grey;
+    }
+
 
 
