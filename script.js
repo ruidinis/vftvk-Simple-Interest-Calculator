@@ -4,7 +4,9 @@ function compute()
     var rate = document.getElementById("rate").value;
     var years = document.getElementById("years").value;
     var interest = principal * years * rate / 100;
-    
+    var currentYear = now.getFullYear()
+    console.log("Current year is: " + currentYear);
+
     
 }
-        
+   compute()     
