@@ -6,7 +6,7 @@
     border-radius: 25px;
     position: absolute;
     margin: -100px 0 0 -150px;
-    top: 10%;
+    top: 50%;
     left: 50%;
     }
 
@@ -20,5 +20,22 @@ h1{
     color:grey;
     }
 
+#result{
+	display: none;
+	}
 
-
+#deposit{
+	color: yellow;
+	}
+	
+#rate_final{
+	color: yellow;
+	}
+	
+#amount{
+	color: yellow;
+	}
+	
+#future_years{
+	color: yellow;
+	}
