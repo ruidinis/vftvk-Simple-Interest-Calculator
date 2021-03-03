@@ -5,19 +5,22 @@
     padding: 20px;
     border-radius: 25px;
     position: absolute;
-    margin: -100px 0 0 -150px;
-    top: 50%;
-    left: 50%;
+    margin: auto;
+	left: 0;
+	right:0;
+    top: 10;
+    left: 0;
     }
 
 body {
     background-color:black;
-    font-family: "Arial";
+    font-family: Arial;
     color: white;
     }
 
 h1{
     color:grey;
+	font-family:Verdana, sans-serif;
     }
 
 #result{
@@ -25,17 +28,21 @@ h1{
 	}
 
 #deposit{
-	color: yellow;
+	background-color: yellow;
+	margin:0em;
 	}
 	
 #rate_final{
-	color: yellow;
+	background-color: yellow;
+	margin:0em;
 	}
 	
 #amount{
-	color: yellow;
+	background-color: yellow;
+	margin:0em;
 	}
 	
 #future_years{
-	color: yellow;
+	background-color: yellow;
+	margin:0em;
 	}
